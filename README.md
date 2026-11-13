@@ -1,4 +1,4 @@
-# Mykyta Doroshenko
+# Mykyta D
 
 Year 3 student, BSc Applied Cybersecurity & Digital Forensics at TU Dublin.
 
@@ -6,7 +6,6 @@ Year 3 student, BSc Applied Cybersecurity & Digital Forensics at TU Dublin.
 - WorldSkills Ireland Cloud Computing National Champion 2026
 - AWS Student Builder Group Leader at TU Dublin
 
-I'm looking for a cyber security or cloud internship in 2027.
 
 [LinkedIn](https://www.linkedin.com/in/mykyta-d-21b065328/) · [Email](mailto:hello@mdoroshenko.com)
 
